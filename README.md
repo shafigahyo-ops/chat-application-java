@@ -64,3 +64,18 @@ Each client will:
 4. Messages from one client are broadcast to all connected clients
 5. The client interface is text-based and runs in the terminal
 # output
+Connected to chat server
+Welcome! You are User 1
+User 1 joined the chat.
+User 2 joined the chat.
+User 2: Hi
+Hello
+User 1: Hello
+User 2: How are you?
+Fine, and you?
+User 1: Fine, and you?
+User 2: I'm good. it's new year !
+Yeah ! time waits for no one ..
+User 1: Yeah ! time waits for no one ..
+User 3 joined the chat.
+User 2 left the chat.
